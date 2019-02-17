@@ -1,0 +1,90 @@
+.App {
+  display: block;
+  height: 100%;
+  padding-bottom: 280px;
+  padding-top: 200px;
+  background-color: #c4dfe6;
+  font-family: 'Trebuchet MS';
+  color: white;
+}
+
+.App-container {
+  width: 40%;
+  margin-left: 28%;
+  background-color: #66a5ad;
+  padding: 2%;
+  border-radius: 25px;
+  border-width: 1px;
+  box-shadow: 2px 2px 2px 2px #888888;
+}
+
+.forecast-container {
+  width: 50%;
+  margin-top: -17%;
+  overflow-x: wrap;
+
+}
+
+select {
+  margin-left: 60%;
+  padding: 2px;
+  background-color: #66a5ad;
+	color: white;
+  cursor: pointer;
+  font-family: 'Trebuchet MS';
+  font-size: 2em;
+
+}
+
+select:hover {
+  background-color: #07575b;
+  cursor: pointer;
+  font-family: 'Trebuchet MS';
+}
+
+
+.App-status, .App-degree {
+  margin-top: -10%;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.App-status {
+  margin-left: 15%;
+}
+
+.App-degree {
+  margin-top: -11%;
+  margin-left: 75%;
+}
+
+.Loading {
+margin-left: 43%;
+width: 20px;
+
+}
+
+.App-sub1 {
+  margin-left: 62%;
+  margin-top: 4%;
+
+}
+
+.App-sub2 {
+  margin-left: 82%;
+  margin-top: -6.2%;
+
+}
+
+
+.today-img {
+  margin-left: 60%;
+  margin-top: 1%;
+
+}
+
+
+
+
+
+
